@@ -13,5 +13,5 @@ DB_ROOTPASSWORD=toor\
 >**docker-compose --env-file .env.dev up --build**
 
 3. EVO будет доступна по адресу api.localhost, для входа в админ-панель:
->- Имя пользователя: **root**\
+- Имя пользователя: **root**
 - Пароль: **tratata***
