@@ -7,7 +7,7 @@
 >DB_NAME=devDB\
 DB_USERNAME=dev_user\
 DB_USERPASSWORD=#2iA31_-123!\
-DB_ROOTPASSWORD=toor\
+DB_ROOTPASSWORD=toor
 
 2. Собрать и запустить окружение коммандой:
 >**docker-compose --env-file .env.dev up --build**
