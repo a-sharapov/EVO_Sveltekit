@@ -5,8 +5,11 @@
 1. Необходимо создать файл .env.dev в корне, рядом с файлом docker-compose.yml
 С содержимым:
 DB_NAME=devDB
+
 DB_USERNAME=dev_user
+
 DB_USERPASSWORD=#2iA31_-123!
+
 DB_ROOTPASSWORD=toor
 
 2. Запустить окружение коммандой:
